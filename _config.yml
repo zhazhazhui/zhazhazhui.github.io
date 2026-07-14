@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "zhouzhenghui"
 title_separator          : "-"
-name                     : calyynslll
+name                     : calynslll
 description              : "ZWU 智能科学与技术 研0"
 url                      : https://zhazhazhui.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,14 +22,14 @@ repository               : "zhazhazhui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "your_name"
+  avatar           : "touxiang.png"
+  name             : "calynslll"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2821660354@qq.com" 
 
   # Academic websites
   academia         : # URL
